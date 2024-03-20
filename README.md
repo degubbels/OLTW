@@ -6,7 +6,7 @@ Code by Dennis Gubbels.
 See paper:
 O. Hödl, D. Gubbels, O. Shabelnyk and P. Reichl, "Improving a real-time music alignment algorithm for opera performances," 2023 4th International Symposium on the Internet of Sounds, Pisa, Italy, 2023, pp. 1-6, doi: 10.1109/IEEECONF59510.2023.10335462.
 
-Please cite Dennis Gubbels, the Cooperative Systems Research Group, Faculty of Computer Science, University of Vienna, University of Vienna and the aforementioned paper in any work that uses the algorithm.
+Please cite/reference Dennis Gubbels, the Cooperative Systems Research Group, Faculty of Computer Science, University of Vienna, University of Vienna and the aforementioned paper in any work that uses the algorithm.
 
 The alignment system is implemented in Python.
 The GUI program can be started from OPAQ.py (python ./OPAQ.py).
