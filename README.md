@@ -19,3 +19,5 @@ It is also possible to simulate a performance using a second audio file using Au
 
 The program uses Librosa for calculating MFCC Features:
 McFee, Brian, Colin Raffel, Dawen Liang, Daniel PW Ellis, Matt McVicar, Eric Battenberg, and Oriol Nieto. “librosa: Audio and music signal analysis in python.” In Proceedings of the 14th python in science conference, pp. 18-25. 2015.
+
+This work is licensed under CC BY-NC 4.0 
