@@ -4,9 +4,9 @@ Developed as part of the opera.guru research project at the Cooperative Systems 
 Code by Dennis Gubbels.
 
 See paper:
-O. Hödl, D. Gubbels, O. Shabelnyk and P. Reichl, "Improving a real-time music alignment algorithm for opera performances," 2023 4th International Symposium on the Internet of Sounds, Pisa, Italy, 2023, pp. 1-6, doi: 10.1109/IEEECONF59510.2023.10335462.
-
+O. Hödl, D. Gubbels, O. Shabelnyk and P. Reichl, "Improving a real-time music alignment algorithm for opera performances," 2023 4th International Symposium on the Internet of Sounds, Pisa, Italy, 2023, pp. 1-6, doi: 10.1109/IEEECONF59510.2023.10335462.\
 https://eprints.cs.univie.ac.at/7987/1/FINAL%20IEEE%20Improving_a_real-time_music_alignment_algorithm_for_opera_performances.pdf
+
 
 Please cite/reference Dennis Gubbels, the Cooperative Systems Research Group, Faculty of Computer Science, University of Vienna, University of Vienna and the aforementioned paper in any work that uses the algorithm.
 
